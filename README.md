@@ -10,5 +10,5 @@ The data contact is Matthew H. Futia, mfutia@brockport.edu.
 
 ## Citation 
 
-Futia, M. (2026). Lake Champlain Range Test Detections (Summer 2026).
+Futia, M. (2026). Lake Champlain Range Test Detections (Summer 2026). https://doi.org/10.5281/zenodo.23740496
 
