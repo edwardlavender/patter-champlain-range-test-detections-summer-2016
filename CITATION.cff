@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this dataset, please cite it as follows."
 type: dataset
-title: "Lake Champlain Range Test Detections (Summer 2026)"
+title: "Lake Champlain Range Test Detections (Summer 2016)"
 authors:
   - family-names: Futia
     given-names: M.
